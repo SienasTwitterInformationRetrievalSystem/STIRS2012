@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.util.ArrayList\ getRelevanceOne()
+comment1.params=relevanceOne
+comment1.target=void\ setRelevanceOne(java.util.ArrayList)
+comment2.params=
+comment2.target=java.util.ArrayList\ getRelevanceTwo()
+comment3.params=relevanceTwo
+comment3.target=void\ setRelevanceTwo(java.util.ArrayList)
+comment4.params=
+comment4.target=java.util.ArrayList\ getNonRelevant()
+comment5.params=nonRelevant
+comment5.target=void\ setNonRelevant(java.util.ArrayList)
+comment6.params=
+comment6.target=java.lang.String\ getTopicNum()
+comment7.params=topicNum
+comment7.target=void\ setTopicNum(java.lang.String)
+comment8.params=relevanceOne\ relevanceTwo\ nonRelevant\ topicNum
+comment8.target=NISTTopic(java.util.ArrayList,\ java.util.ArrayList,\ java.util.ArrayList,\ java.lang.String)
+comment9.params=
+comment9.target=NISTTopic()
+numComments=10
