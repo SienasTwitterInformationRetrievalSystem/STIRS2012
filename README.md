@@ -6,7 +6,7 @@ If you're looking at this, you're probably working for Siena College and working
 In 2014, it was our third year (previous years: 2011 & 2012) working on STIRS  - Siena's Information Retrieval System. By this time, the original researchers had all graduated and the current researchers were having a harder time working with the old code. The new code can be found under the main STIRS repository, but here is all the original code that that code originated from.
 
 A lot of this doesn't work. It's simply here if you need to go back and see how we did it before STIRS was remodeled to fit in with the API. We've listed below what each of the projects do (at least, what they were supposed to do) and a general description on how to run the program (from Eclipse), but if you're looking for full documentation, check out the README file for the STIRS repository.
-================================================================================================
+
 development: Whole project run from STIRS (STIRS.jar). Results outputs the results for each run.
 	-Stirs: The “main” class from which STIRS is run.
 	-Results: What we submit to TREC is the results for each run (which does different combos of the four modules). This takes those runs and outputs the results for each of them, in the format for TREC. The runs include the tweet relevance scores used for figure out the results (scores given to each tweet for each topic).
